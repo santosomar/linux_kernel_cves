@@ -10,7 +10,7 @@
   "dependencies": {
     "axios": "^0.18.1",
     "babel-runtime": "^6.26.0",
-    "vue": "^2.5.17",
+    "vue": "^2.6.11",
     "vue-clipboard2": "^0.2.1",
     "vue-markdown": "^2.2.4",
     "vue-meta": "^1.5.8",
